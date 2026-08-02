@@ -63,41 +63,23 @@ The project followed a complete UI/UX workflow:
 
 # 📷 Screens
 
-## 1️⃣ Project Overview
-
+### Project Overview
 ![Project Overview](Project%20Overview.png)
 
----
-
-## 2️⃣ Business Goals & UX Audit
-
+### Business Goals & UX Audit
 ![Business Goals](Business%20Goals%20%26%20UX%20Audit.png)
 
----
-
-## 3️⃣ Low-Fidelity Wireframe
-
+### Low-Fidelity Wireframe
 ![Wireframe](Low-Fidelity%20Wireframe.png)
 
----
-
-## 4️⃣ Design System
-
+### Design System
 ![Design System](Design%20System.png)
 
----
-
-## 5️⃣ High-Fidelity Design & Prototype
-
+### High-Fidelity Design & Prototype
 ![Prototype](High-Fidelity%20Design%20%26%20Prototype.png)
 
----
-
-## 6️⃣ Final Homepage Design
-
+### Final Homepage Design
 ![Homepage](Final%20Homepage%20Design.png)
-
----
 
 # ✨ Key Features
 
